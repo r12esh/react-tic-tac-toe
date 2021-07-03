@@ -1,5 +1,5 @@
 # TIC TAC TOE app in react.js
-This is a classic TIC TAC TOE app made in react.js
+This is a classic TIC TAC TOE app made using react.js
 I have used Custom CSS for styling.
 
 ## Random backgrounds
