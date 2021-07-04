@@ -6,4 +6,4 @@ I have used Custom CSS for styling.
 I have also added random backgrounds using the free unsplash API: https://source.unsplash.com/
 
 ## Try this in your own browser here:
-https://r12esh.github.io/react-tic-tac-toe/
+### https://r12esh.github.io/react-tic-tac-toe/
